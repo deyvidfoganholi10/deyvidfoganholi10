@@ -28,7 +28,7 @@
 
 - Email: deyvidfoganholi10@gmail.com  
 - Localização: São Paulo - SP  
-- LinkedIn: deyvidfoganholi
+- LinkedIn: https://www.linkedin.com/in/deyvid-foganholi-93751a209?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
 
 ---
 
