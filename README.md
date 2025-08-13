@@ -1,28 +1,56 @@
 👋 Olá! Eu sou o Deyvid Foganholi
 
-🎓 Atualmente curso Análise e Desenvolvimento de Sistemas (Cruzeiro do Sul Virtual)  
-💼 Tenho experiência na área de manutenção civil e hidráulica  
-💻 Em transição de carreira para a área de TI, buscando conhecimento e prática no desenvolvimento de sistemas  
-🚀 Focado em aprendizado constante, evolução pessoal e profissional
+# Portfolio Full Stack
 
----
+Este repositório apresenta meus estudos e projetos acadêmicos voltados para desenvolvimento web full stack.
 
-## 🛠 Tecnologias e Conhecimentos
+## Tecnologias
+- React
+- Node.js
+- Python
+- MongoDB
 
-- HTML e CSS (básico)
-- Lógica de programação (em desenvolvimento)
-- Git e GitHub
-- Pacote Office (básico ao avançado)
-- Instalações elétricas e manutenção predial
+## Objetivo
+Organizar e documentar meus aprendizados em desenvolvimento full stack, aplicando conceitos de front-end e back-end.
 
----
+## Próximos Passos
+- Criar aplicações web reais
+- Implementar autenticação e CRUD
+- Aprimorar integração front-end e back-end
 
-## 📌 Projetos
+# Projeto Acadêmico – Aplicação Web
 
-- Em breve: portfólio pessoal com projetos desenvolvidos durante os estudos
-- Repositórios voltados para prática de lógica, HTML, CSS e controle de versão
+Projeto desenvolvido como parte do curso de Análise e Desenvolvimento de Sistemas.
 
----
+## Tecnologias
+- React
+- Node.js
+- Python
+- MongoDB
+
+## Funcionalidades planejadas
+- Autenticação de usuários
+- CRUD completo (Create, Read, Update, Delete)
+- Integração front-end e back-end
+
+## Aprendizados
+- Estruturas de dados e lógica de programação
+- Conceitos de arquitetura de software
+- Uso de Git e versionamento de código
+
+# Aplicações Futuras
+
+Lista de ideias de projetos full stack que pretendo desenvolver para aplicar meus conhecimentos.
+
+## Ideias de projetos
+- E-commerce full stack com React + Node.js + MongoDB
+- Aplicativo de gerenciamento de tarefas
+- Blog pessoal com autenticação e dashboard administrativo
+
+## Objetivo
+Planejar e estruturar projetos antes de começar a codar, garantindo aprendizado consistente e documentação desde o início.
+
+ fullstack, react, nodejs, python, estudos, academico
 
 ## 📫 Contato
 
