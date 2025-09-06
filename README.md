@@ -1,58 +1,42 @@
-👋 Olá! Eu sou o Deyvid Foganholi
+# 👋 Olá, eu sou Deyvid Foganholi Barreto  
 
-# Portfolio Full Stack
+🎯 Futuro **Desenvolvedor Full Stack** | Estudante de **Análise e Desenvolvimento de Sistemas**  
 
-Este repositório apresenta meus estudos e projetos acadêmicos voltados para desenvolvimento web full stack.
+💻 Construindo conhecimento prático em:  
+- **Frontend**: React, HTML, CSS, JavaScript  
+- **Backend**: Node.js, Python  
+- **Banco de Dados**: MongoDB, MySQL  
+- **Outros**: Git, GitHub  
 
-## Tecnologias
-- React
-- Node.js
-- Python
-- MongoDB
+---
 
-## Objetivo
-Organizar e documentar meus aprendizados em desenvolvimento full stack, aplicando conceitos de front-end e back-end.
+## 🚀 Projetos em destaque  
 
-## Próximos Passos
-- Criar aplicações web reais
-- Implementar autenticação e CRUD
-- Aprimorar integração front-end e back-end
+🔹 [To-Do List (Lista de Tarefas)](https://github.com/deyvidfoganholi10/to-do-list)  
+🔹 [E-commerce Simples](https://github.com/deyvidfoganholi10/ecommerce-simples)  
+🔹 [Blog Pessoal](https://github.com/deyvidfoganholi10/blog-pessoal)  
 
-# Projeto Acadêmico – Aplicação Web
+---
 
-Projeto desenvolvido como parte do curso de Análise e Desenvolvimento de Sistemas.
+## 📊 Estatísticas do GitHub  
 
-## Tecnologias
-- React
-- Node.js
-- Python
-- MongoDB
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=deyvidfoganholi10&show_icons=true&theme=dracula)  
 
-## Funcionalidades planejadas
-- Autenticação de usuários
-- CRUD completo (Create, Read, Update, Delete)
-- Integração front-end e back-end
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deyvidfoganholi10&layout=compact&theme=draccula)
 
-## Aprendizados
-- Estruturas de dados e lógica de programação
-- Conceitos de arquitetura de software
-- Uso de Git e versionamento de código
 
-# Aplicações Futuras
 
-Lista de ideias de projetos full stack que pretendo desenvolver para aplicar meus conhecimentos.
+## 🌎 Conecte-se comigo  
 
-## Ideias de projetos
-- E-commerce full stack com React + Node.js + MongoDB
-- Aplicativo de gerenciamento de tarefas
-- Blog pessoal com autenticação e dashboard administrativo
+🔗 [LinkedIn](https://www.linkedin.com/in/deyvid-foganholi-93751a209)  
+📧 **deyvidfoganholi10@gmail.com**  
 
-## Objetivo
-Planejar e estruturar projetos antes de começar a codar, garantindo aprendizado consistente e documentação desde o início.
+---
 
- fullstack, react, nodejs, python, estudos, academico
+⭐ Se você gosta de tecnologia e desenvolvimento Full Stack, explore meus repositórios e acompanhe minha evolução!
 
-## 📫 Contato
+
+
 
 - Email: deyvidfoganholi10@gmail.com  
 - Localização: São Paulo - SP  
