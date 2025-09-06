@@ -8,7 +8,8 @@
 - **Banco de Dados**: MongoDB, MySQL  
 - **Outros**: Git, GitHub  
 
----
+ecnologias e Habilidades
+HTML5 CSS3 JavaScript Reagir Node.js Pitão MongoDB MySQL Git
 
 ## 🚀 Projetos em destaque  
 
